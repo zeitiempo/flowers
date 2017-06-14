@@ -1,2 +1,2 @@
 # flowers
-tips for Flowers
+tips for FLOWERS
