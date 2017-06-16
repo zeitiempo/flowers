@@ -3,7 +3,7 @@
 |-|-|-|-|
 |グラディエーター|gladiator|レオタード|leotard|
 |ダミー|dummy|コーカサス|Caucasus|
-|デミグラスソース|demi-glace sauce(FR)|キャミソール|comisole|
+|デミグラスソース|demi-glace sauce(FR)|キャミソール|camisole|
 |ポトフ|pot-au-feu(FR)|エネルギッシュ|energisch(DE)|
 |ウェンディゴ|Wendigo|サナトリウム|sanatorium|
 |マグダラ|Magdala|ケンタウルス|Centaurus|
