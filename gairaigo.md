@@ -1,7 +1,7 @@
 
 |カタカナ|アルファベット|カタカナ|アルファベット|
 |-|-|-|-|
-|シロップ|siroop(NL)|グラディエーター|gladiator|
+|シロップ|siroop(nl)|グラディエーター|gladiator|
 |リズムかル|rhythmical|レオタード|leotard|
 |ダミー|dummy|コーカサス|Caucasus|
 |サイドキックス|Sidekicks|デミグラスソース|demi-glace sauce(fr)|
